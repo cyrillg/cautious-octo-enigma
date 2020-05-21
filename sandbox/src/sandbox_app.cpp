@@ -4,7 +4,7 @@ class Sandbox : public octo::Application
 {
 public:
   Sandbox() {};
-
+   
   ~Sandbox() {};
 };
 

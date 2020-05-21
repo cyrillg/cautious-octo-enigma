@@ -27,9 +27,15 @@
     <ClInclude Include="src\planner\entrypoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\planner\log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\planner\application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\planner\log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

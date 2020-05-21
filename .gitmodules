@@ -1,0 +1,3 @@
+[submodule "cautious-octo-enigma\\vendor\\spdlog"]
+	path = cautious-octo-enigma\\vendor\\spdlog
+	url = https://github.com/gabime/spdlog
